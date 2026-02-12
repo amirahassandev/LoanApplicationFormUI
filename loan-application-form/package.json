@@ -2,7 +2,7 @@
   "name": "loan-application-form",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://amirahassandev.github.io/Loan-Application-Form-UI-Frontend-Simulation-",
+  "homepage": "https://amirahassandev.github.io/LoanApplicationFormUI",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
