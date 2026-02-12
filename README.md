@@ -4,7 +4,7 @@ A simple Loan Application Form built using React.
 This project focuses on form handling, validation, state management, and reusable components.  
 It is a frontend-only UI project created for learning and portfolio purposes.  
 
-**Live Demo:** https://soft-tanuki-ad9e96.netlify.app/
+**Live Demo:** https://amirahassandev.github.io/LoanApplicationFormUI/
 
 ---
 
