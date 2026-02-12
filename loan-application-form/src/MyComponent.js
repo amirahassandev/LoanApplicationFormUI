@@ -6,7 +6,7 @@ import { loanInputContext } from "./Contexts/LoanInputDataContext"
 
 export default function MyComponent(){
     const useLoanInputContext = useContext(loanInputContext)
-    console.log(useLoanInputContext)
+    // console.log(useLoanInputContext)
 
     return(
         <>
